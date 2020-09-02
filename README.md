@@ -6,6 +6,8 @@ C.H. van Immerzeel
 
 Calculation of the drawdown in an aquifer under an aquiclude caused by a fully penetrating well. Implementation of the De Glee formula. 
 
+![Schematisation](https://user-images.githubusercontent.com/16401251/91999001-34ed2980-ed3c-11ea-93d0-753a89f74bb6.JPG)
+
 ## Link to app
 <https://sweco.shinyapps.io/DeGlee/>
 
